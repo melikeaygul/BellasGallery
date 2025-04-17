@@ -48,7 +48,7 @@ Du darfst jetzt wieder um Vergebung betteln.''',
 Ihre Augen verfolgen jede deiner Bewegungen mit dramatischer Intensität.
 „Fütter mich oder es gibt Konsequenzen – und du weißt, wie schnell ich auf die Tastatur pinkeln könnte.“
 Ein Napf, ein Dreamie – und alles ist vergeben.''',
-    imagePath: 'assets/img/DA4A5FB8-A56E-495C-80A4-EBD35864C914_1_105_c.jpeg',
+    imagePath: 'assets/img/9ED68BD1-570D-41B5-ADCF-48A2A98E5B88_1_105_c.jpeg',
   ),
   GalleryItem(
     imageTitle: 'Brave Nala',
